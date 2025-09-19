@@ -1,0 +1,20 @@
+# Ignore all file logs
+*.log
+
+# Ignore the entire User Manual folder
+docs/UserManual/
+
+# Ignore all txt files that include a dash
+*-*.txt
+
+# Ignore the styles.css file
+scr/styles.css
+
+# Ignore all SRS files except the final version
+docs/Software_Requirement_Specification/SRS_v1.docx
+
+# Ignore all SDD files except the final version
+docs/Software_Design_Document/SDD_v1.docx
+
+# Ignore any README files not in the root directory
+**/README.md
